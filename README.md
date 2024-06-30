@@ -1,5 +1,5 @@
 # pyssembly
-Python module to run inline assembly inside a python script.
+Python module to run inline assembly.
 
 ## Build 
 Open the module in vscode and build the container using Docker.
