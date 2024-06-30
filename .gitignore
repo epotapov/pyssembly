@@ -1,0 +1,6 @@
+.github
+
+example/example
+example/example.o
+
+__pycache__
